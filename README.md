@@ -1,64 +1,69 @@
-<div align='center'>
-  
-# Banco de Dados Não-Relacional
+<div align="center">
+
+# Banco de Dados Não-Relacional 
+
 </div>
-
-> Atividades desenvolvidas nas aulas de bancos de dados não-relacional 
-
-</br>
 
 <div align="center">
 
-<a href="#proposta">**PROPOSTA**</a> • 
-<a href="#tecnologias">**TECNOLOGIAS**</a> • 
-<a href="#progresso">**PROGRESSO**</a> • 
-<a href="#organizacao">**ORGANIZAÇÃO**</a> • 
-<a href="#como rodar">**COMO RODAR**</a>
+[Sobre o projeto](#project) | [Ferramentas](#tools) | [Executando](#running) | [Organização das pastas](#folders) | [Autor](#autor)
+
+</br>
 
 </div>
 
-<span id="proposta">
-
-## 🧐 Proposta
-
+##  ✒️ Sobre o projeto <a name="project"></a>
 Durante essas aulas a proposta foi desenvolver uma base de dados do Mercado Livre, na qual deveríamos implementar as opções de CRUD e tornar possível armazenas as informações de diferentes formar em diferentes bancos de dados de acordo com seus princípios.
 
-<br />
-  
-<span id="tecnologias">
+</br>
 
-## 👨‍💻 Tecnologias
+## ⚒️ Ferramentas <a name="tools"></a>
 
-Aqui estão algumas das linguagens e plataformas utilizadas para o desenvolvimentos desta atividades:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-e4d2e4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![Python](https://img.shields.io/badge/python-e4d2e4?style=for-the-badge&logo=python&logoColor=black)
+![Redis](https://img.shields.io/badge/redis-e4d2e4.svg?style=for-the-badge&logo=redis&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-e4d2e4.svg?style=for-the-badge&logo=mongodb&logoColor=black)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-e4d2e4.svg?style=for-the-badge&logo=apache-cassandra&logoColor=black)
 
-> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-> ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br />
-  
-<span id="progresso">
+</br>
 
-## ✍️ Progresso
-Em breve!
+## ⚙️ Executando <a name="running"></a>
 
-<br />
-  
-<span id="organizacao">
+```bash
 
-## 🗂️ Organização
-Em breve!
+# Baixe este repositório ou clone pelo Git usando o comando:
+$ git clone https://github.com/drisabelles/fatec-bdnr.git
 
-<br />
-  
-<span id="como rodar">
+# Acesse a pasta do projeto
+$ cd fatec-bdnr
 
-## ⌨️ Como rodar
-Em breve!
+# Rode o projeto em alguma IDE de sua preferência, como IDLE, Pycharm e etc.
 
-<br />
+```
 
-# 💛
+</br>
 
-Lembrete de que *você é ótimo, você é o suficiente, e a sua presença é valorizada.* Se você está tendo algum problema com saúde mental, por favor, fale com alguém que você ama e busque ajuda profissional. [Há muitas formas de você conseguir ajuda num momento de necessidade.](https://www.cvv.org.br/)
+## 🗂️ Organização das pastas <a name="folders"></a>
+
+```bash
+📂 fatec-bdnr
+|- 📁 cassandra-python
+|--- 📁 src
+|--- 📄 main.py
+|--- 📄 requirements.txt
+|- 📁 mongo-python
+|--- 📁 cruds
+|--- 📄 IsabelleEX3_BDNR.py
+|--- 📄 conexaoMongo.py
+|- 📁 redis-python
+|--- 📁 src
+|--- 📄 main.py
+|--- 📄 requirements.txt
+```
+
+</br>
+
+## 👩‍💻 Autor <a name="autor"></a>
+
+- LinkedIn - [Isabelle Ribeiro](https://www.linkedin.com/in/drisabelles/)
